@@ -1,0 +1,531 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|c:\\users\\dorassi\\onedrive - vnu-hcmus\\an to\u00E0n b\u1EA3o m\u1EADt httt\\qldulieunoibo\\qldulieunoibo\\phanhe2\\truongkhoa\\home_truongkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe2\\truongkhoa\\home_truongkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe2\\truongkhoa\\home_truongkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe2\\truongkhoa\\home_truongkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe1\\ols_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe1\\ols_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe2\\truongdonvi\\home_truongdonvi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe2\\truongdonvi\\home_truongdonvi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe2\\truongdonvi\\home_truongdonvi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe2\\truongdonvi\\home_truongdonvi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe2\\sinhvien\\home_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe2\\sinhvien\\home_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe2\\giangvien\\home_giangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe2\\giangvien\\home_giangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe2\\giaovu\\home_giaovu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe2\\giaovu\\home_giaovu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe2\\giangvien\\home_giangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe2\\giangvien\\home_giangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe2\\home_nvphongtaichinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe2\\home_nvphongtaichinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe2\\sinhvien\\home_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe2\\sinhvien\\home_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe2\\home_nhanviencoban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe2\\home_nhanviencoban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe2\\giaovu\\home_giaovu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe2\\giaovu\\home_giaovu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe1\\ols_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe1\\ols_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe2\\truongkhoa\\suaphancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe2\\truongkhoa\\suaphancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe2\\thongbao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe2\\thongbao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe2\\thongbao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe2\\thongbao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe1\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe1\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe1\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe1\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe1\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe1\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe2\\giaovu\\dangkyhocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe2\\giaovu\\dangkyhocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe2\\giaovu\\dangkyhocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe2\\giaovu\\dangkyhocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe1\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe1\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe2\\home_nvphongtaichinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe2\\home_nvphongtaichinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe1\\allusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe1\\allusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe2\\truongkhoa\\themphancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41DBC339-C173-4501-B4C2-8A19C1A8E888}|QLDuLieuNoiBo\\QLDuLieuNoiBo.csproj|solutionrelative:qldulieunoibo\\phanhe2\\truongkhoa\\themphancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe2\\giaovu\\suadonvi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:qldulieunoibo\\phanhe2\\giaovu\\suadonvi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe2\\giaovu\\suakhmo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:qldulieunoibo\\phanhe2\\giaovu\\suakhmo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\qldulieunoibo\\phanhe2\\giaovu\\themkhmo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:qldulieunoibo\\phanhe2\\giaovu\\themkhmo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 202,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ThongBao.cs",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\ThongBao.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe2\\ThongBao.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\ThongBao.cs",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe2\\ThongBao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:49:38.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OLS_Admin.cs",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe1\\OLS_Admin.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe1\\OLS_Admin.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe1\\OLS_Admin.cs",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe1\\OLS_Admin.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:24:40.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OLS_Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe1\\OLS_Admin.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe1\\OLS_Admin.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe1\\OLS_Admin.cs [Design]",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe1\\OLS_Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:29:30.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ThongBao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\ThongBao.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe2\\ThongBao.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\ThongBao.cs [Design]",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe2\\ThongBao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:14:08.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home_SinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\SinhVien\\Home_SinhVien.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe2\\SinhVien\\Home_SinhVien.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\SinhVien\\Home_SinhVien.cs",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe2\\SinhVien\\Home_SinhVien.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAmwKgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:15:47.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Home_SinhVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\SinhVien\\Home_SinhVien.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe2\\SinhVien\\Home_SinhVien.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\SinhVien\\Home_SinhVien.cs [Design]",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe2\\SinhVien\\Home_SinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:15:22.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home_TruongDonVi.cs",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\TruongDonVi\\Home_TruongDonVi.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe2\\TruongDonVi\\Home_TruongDonVi.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\TruongDonVi\\Home_TruongDonVi.cs",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe2\\TruongDonVi\\Home_TruongDonVi.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAAAAIYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:47:44.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DangKyHocPhan.cs",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\DangKyHocPhan.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\DangKyHocPhan.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\DangKyHocPhan.cs",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\DangKyHocPhan.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAADgvzYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:10:53.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DangKyHocPhan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\DangKyHocPhan.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\DangKyHocPhan.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\DangKyHocPhan.cs [Design]",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\DangKyHocPhan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:10:35.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home_GiaoVu.cs",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\Home_GiaoVu.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\Home_GiaoVu.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\Home_GiaoVu.cs",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\Home_GiaoVu.cs",
+              "ViewState": "AQIAABYBAAAAAAAAAADwvykBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:39:42.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe1\\Home.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe1\\Home.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe1\\Home.cs",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe1\\Home.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAIA+wDkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:12:43.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe1\\Home.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe1\\Home.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe1\\Home.cs [Design]",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe1\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:11:31.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Audit.cs",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe1\\Audit.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe1\\Audit.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe1\\Audit.cs",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe1\\Audit.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAArwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:11:17.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AllUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe1\\AllUsers.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe1\\AllUsers.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe1\\AllUsers.cs [Design]",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe1\\AllUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:09:41.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Audit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe1\\Audit.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe1\\Audit.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe1\\Audit.cs [Design]",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe1\\Audit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:08:59.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\DataProvider.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\DataProvider.cs",
+              "RelativeToolTip": "QLDuLieuNoiBo\\DataProvider.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAcwC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:33:32.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Home_NVPhongTaiChinh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\Home_NVPhongTaiChinh.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe2\\Home_NVPhongTaiChinh.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\Home_NVPhongTaiChinh.cs [Design]",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe2\\Home_NVPhongTaiChinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:23:12.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\Program.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\Program.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\Program.cs",
+              "RelativeToolTip": "QLDuLieuNoiBo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:30:34.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\Login.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe2\\Login.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\Login.cs",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe2\\Login.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAADsAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:17:23.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\Login.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe2\\Login.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\Login.cs [Design]",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe2\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:17:06.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home_GiangVien.cs",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\GiangVien\\Home_GiangVien.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe2\\GiangVien\\Home_GiangVien.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\GiangVien\\Home_GiangVien.cs",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe2\\GiangVien\\Home_GiangVien.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAAAOQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:45:44.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Home_NVPhongTaiChinh.cs",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\Home_NVPhongTaiChinh.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe2\\Home_NVPhongTaiChinh.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\Home_NVPhongTaiChinh.cs",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe2\\Home_NVPhongTaiChinh.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwCQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:23:16.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home_TruongKhoa.cs",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\TruongKhoa\\Home_TruongKhoa.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe2\\TruongKhoa\\Home_TruongKhoa.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\TruongKhoa\\Home_TruongKhoa.cs",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe2\\TruongKhoa\\Home_TruongKhoa.cs",
+              "ViewState": "AQIAAGkBAAAAAAAAAAAwwIYBAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T02:39:17.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SuaPhanCong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\TruongKhoa\\SuaPhanCong.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe2\\TruongKhoa\\SuaPhanCong.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\TruongKhoa\\SuaPhanCong.cs [Design]",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe2\\TruongKhoa\\SuaPhanCong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T02:38:12.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ThemPhanCong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\TruongKhoa\\ThemPhanCong.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe2\\TruongKhoa\\ThemPhanCong.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\TruongKhoa\\ThemPhanCong.cs [Design]",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe2\\TruongKhoa\\ThemPhanCong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T02:35:29.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home_TruongKhoa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\TruongKhoa\\Home_TruongKhoa.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe2\\TruongKhoa\\Home_TruongKhoa.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\TruongKhoa\\Home_TruongKhoa.cs [Design]",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe2\\TruongKhoa\\Home_TruongKhoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T02:25:43.706Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Home_GiaoVu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\Home_GiaoVu.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\Home_GiaoVu.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\Home_GiaoVu.cs [Design]",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\Home_GiaoVu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T01:37:15.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home_TruongDonVi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\TruongDonVi\\Home_TruongDonVi.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe2\\TruongDonVi\\Home_TruongDonVi.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\TruongDonVi\\Home_TruongDonVi.cs [Design]",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe2\\TruongDonVi\\Home_TruongDonVi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T01:33:39.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SuaDonVi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\SuaDonVi.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\SuaDonVi.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\SuaDonVi.cs [Design]",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\SuaDonVi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:12:26.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SuaKHMo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\SuaKHMo.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\SuaKHMo.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\SuaKHMo.cs [Design]",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\SuaKHMo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:54:44.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ThemKHMo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\ThemKHMo.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\ThemKHMo.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\ThemKHMo.cs [Design]",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe2\\GiaoVu\\ThemKHMo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:54:34.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Home_NhanVienCoBan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\Home_NhanVienCoBan.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe2\\Home_NhanVienCoBan.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\Home_NhanVienCoBan.cs [Design]",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe2\\Home_NhanVienCoBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T08:24:14.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home_GiangVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\GiangVien\\Home_GiangVien.cs",
+              "RelativeDocumentMoniker": "QLDuLieuNoiBo\\PhanHe2\\GiangVien\\Home_GiangVien.cs",
+              "ToolTip": "C:\\Users\\DoraSsi\\OneDrive - VNU-HCMUS\\An to\u00E0n b\u1EA3o m\u1EADt HTTT\\QLDuLieuNoiBo\\QLDuLieuNoiBo\\PhanHe2\\GiangVien\\Home_GiangVien.cs [Design]",
+              "RelativeToolTip": "QLDuLieuNoiBo\\PhanHe2\\GiangVien\\Home_GiangVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:18:45.156Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

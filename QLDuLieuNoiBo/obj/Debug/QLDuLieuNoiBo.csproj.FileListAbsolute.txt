@@ -1,0 +1,107 @@
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\QLDuLieuNoiBo.exe.config
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\QLDuLieuNoiBo.exe
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\QLDuLieuNoiBo.pdb
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\Guna.UI2.dll
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Buffers.dll
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Formats.Asn1.dll
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Memory.dll
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Text.Json.dll
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.ValueTuple.dll
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Buffers.xml
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Formats.Asn1.xml
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Memory.xml
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Text.Json.xml
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.ValueTuple.xml
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.csproj.AssemblyReference.cache
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe1.AllUsers.resources
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe1.ColumnPermission.resources
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe1.CreateRole.resources
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe1.CreateUser.resources
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe1.Home.resources
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.Login.resources
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe1.ModifyRole.resources
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe1.ModifyUser.resources
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe1.Privileges.resources
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe1.Roles.resources
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.Properties.Resources.resources
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.csproj.GenerateResource.cache
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.csproj.CoreCompileInputs.cache
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieu.7EB08AAF.Up2Date
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.exe
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.pdb
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe2.GiangVien.Home_GiangVien.resources
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe2.Home_NhanVienCoBan.resources
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe2.GiaoVu.DangKyHocPhan.resources
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe2.GiaoVu.Home_GiaoVu.resources
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe2.TruongDonVi.Home_TruongDonVi.resources
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe2.TruongKhoa.Home_TruongKhoa.resources
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe2.TruongKhoa.SuaPhanCong.resources
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe2.TruongKhoa.ThemPhanCong.resources
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\QLDuLieuNoiBo.exe.config
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\QLDuLieuNoiBo.exe
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\QLDuLieuNoiBo.pdb
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Buffers.dll
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Formats.Asn1.dll
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Memory.dll
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Numerics.Vectors.dll
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Text.Encodings.Web.dll
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Text.Json.dll
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.ValueTuple.dll
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Buffers.xml
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Formats.Asn1.xml
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Memory.xml
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Numerics.Vectors.xml
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Text.Encodings.Web.xml
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Text.Json.xml
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\bin\Debug\System.ValueTuple.xml
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.csproj.AssemblyReference.cache
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe1.AllUsers.resources
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe1.ColumnPermission.resources
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe1.CreateRole.resources
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe1.CreateUser.resources
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe1.Home.resources
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe1.Home_OLS_Admin.resources
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.Login.resources
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe1.ModifyRole.resources
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe1.ModifyUser.resources
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe1.Privileges.resources
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe1.Roles.resources
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe2.GiangVien.Home_GiangVien.resources
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe2.GiaoVu.DangKyHocPhan.resources
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe2.GiaoVu.Home_GiaoVu.resources
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe2.Home_NhanVienCoBan.resources
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe2.Home_NVPhongTaiChinh.resources
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe2.SinhVien.Home_SinhVien.resources
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe2.TruongDonVi.Home_TruongDonVi.resources
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe2.TruongKhoa.Home_TruongKhoa.resources
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe2.TruongKhoa.SuaPhanCong.resources
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe2.TruongKhoa.ThemPhanCong.resources
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.Properties.Resources.resources
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.csproj.GenerateResource.cache
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.csproj.CoreCompileInputs.cache
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.csproj.CopyComplete
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.exe
+D:\An toàn bảo mật trong hệ thống thông tin\PH2_app\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.pdb
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe2.Home_NVPhongTaiChinh.resources
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe2.SinhVien.Home_SinhVien.resources
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe1.Audit.resources
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe2.ThongBao.resources
+C:\Users\DoraSsi\OneDrive - VNU-HCMUS\An toàn bảo mật HTTT\QLDuLieuNoiBo\QLDuLieuNoiBo\obj\Debug\QLDuLieuNoiBo.PhanHe1.OLS_Admin.resources
